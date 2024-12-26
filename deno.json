@@ -1,5 +1,6 @@
 {
   "tasks": {
+    "build": "deno run -A main.ts",
     "dev": "deno run --watch main.ts"
   },
   "imports": {
